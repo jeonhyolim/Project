@@ -1,5 +1,5 @@
 # Project
-학기 중 프로젝트
+Semester Project
 
 1. [Final Project] Graph Mining 23-1 Semeseter
 2. [First Team Project] Graph Mining 23-1 Semeseter
