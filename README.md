@@ -7,3 +7,5 @@ Semester Project
 3. [First Project] 고급머신러닝 딥러닝 23-1
 4. [Second Project] 고급머신러닝 딥러닝 23-1
 5. [매주 과제] 데이터사이언스 컴퓨팅 23-2 Semester
+6. [First Project] 크롤링 데이터사이언스 컴퓨팅 23-2 Semester
+7. [Second Project] 데이터사이언스 컴퓨팅 23-2 Semester - Sentiment huggingface
